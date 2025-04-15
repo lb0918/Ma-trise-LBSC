@@ -132,7 +132,7 @@ Ce dossier contient les fichiers ayant servis à faire l'exemple des densité d'
 
 
 # ML_models
-Ce dossier contient les deux modèles d'apprentissage machine (1bande et 3bande) qui ont servis à produire les résultats présentés dans mon mémoire.
+Les deux modèles d'apprentissage machine (1bande et 3bande) qui ont servis à produire les résultats présentés dans mon mémoire. Vous pouvez les télécharger à l'adresse suivante: https://osf.io/cyeg2/
 
 Le modèle RTF 1bande est testé sur les 20 000 dernières solutions du fichier solutions/Optimisation_1bande_trous/merged_file_filtered_complet_shuffle.tsv. Le reste des données du fichier (donc toutes les données sauf les 20 000 dernières lignes) ont servis de données d'entraînement.
 
